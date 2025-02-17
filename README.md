@@ -1,4 +1,4 @@
-# Data Scientist
+### Data Scientist
 
 ### 👩‍💻 About Me
 Hi! I'm Clara Laditan, a Data Scientist passionate about transforming complex data into actionable insights. With a background in Health Data Science from Swansea University, I specialize in data analytics, machine learning, geospatial analysis, and storytelling with data.
@@ -7,6 +7,7 @@ I thrive in cross-functional teams, leveraging data-driven solutions to improve 
 
 
 ### 💼 Work Experience
+
 ## 📌 Data Scientist | Data for Good YYC (April 2024 – Present)
 - Developed data pipelines and synthesized insights from diverse data sources to support evidence-based decision-making for non-profits.
 - Designed interactive dashboards and visual reports to track key organizational metrics, engagement trends, and impact.
@@ -14,14 +15,14 @@ I thrive in cross-functional teams, leveraging data-driven solutions to improve 
 - Led data exploration projects to uncover insights into network engagement and donor retention strategies.
 - Collaborated with a team of data professionals to provide actionable recommendations for social good initiatives.
 
-📌 Data Analyst | Immigrant Services Calgary (2021 – 2023)
+## 📌 Data Science Consultant | DsgnX (2023 – Present)
 - Conducted data analysis and visualization to measure program outcomes for newcomer settlement services.
 - Built interactive dashboards in Tableau and Power BI to track client demographics, program participation, and service effectiveness.
 - Used Python and SQL to clean, process, and analyze large datasets related to immigration trends and employment outcomes.
 - Designed and implemented impact measurement frameworks to evaluate funding effectiveness.
 - Provided data-driven insights that shaped funding proposals and strategic planning.
 
-📌 Research & Data Analyst | Action Health Incorporated (2018 – 2020)
+## 📌 Research & Data Analyst | Action Health Incorporated (2018 – 2020)
 - Applied statistical models and predictive analytics to assess the effectiveness of youth health programs.
 - Managed and analyzed large health datasets, generating reports to support policy advocacy in sexual and reproductive health.
 - Designed data visualization tools and interactive reports to communicate findings to stakeholders.
@@ -29,9 +30,9 @@ I thrive in cross-functional teams, leveraging data-driven solutions to improve 
 - Created automated reports and dashboards to streamline monitoring and evaluation processes.
 
 
-📊 Technical Skills
-- Programming: Python (Pandas, NumPy, Scikit-learn), SQL, R
-- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+### 📊 Technical Skills
+- Programming: Python (Pandas, NumPy, Scikit-learn), R (Tidyverse, caret), SQL
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, ggplot2, plotly
 - Machine Learning: Supervised & Unsupervised Learning, Time Series Forecasting
 - Data Engineering: ETL Pipelines, Data Cleaning & Processing
 - Cloud & Tools: AWS, Google Cloud, GitHub, Jupyter Notebooks
@@ -42,8 +43,10 @@ I thrive in cross-functional teams, leveraging data-driven solutions to improve 
 🎓 MSc Health Data Science – Swansea University
 🎓 BSc Biochemistry – Covenant University
 
+
 ### 📌 Want to see my projects?
 Check out my GitHub Repositories for my latest data science projects, dashboards, and machine learning experiments! 🚀
+
 
 ### 📬 Let's Connect!
 💼 LinkedIn: https://www.linkedin.com/in/clara-laditan/
