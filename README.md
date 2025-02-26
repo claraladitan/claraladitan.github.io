@@ -46,7 +46,8 @@ I thrive in cross-functional teams, leveraging data-driven solutions to improve 
 
 ### 📌 Want to see my projects?
 Check out my GitHub Repositories for my latest data science projects, dashboards, and machine learning experiments! 🚀
-- 🔗 https://github.com/claraladitan
+- 🔗 **[GitHub Profile]([https://github.com/yourusername](https://github.com/claraladitan))**
+ https://github.com/claraladitan
 
 ### 📬 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/clara-laditan/
