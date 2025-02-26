@@ -1,3 +1,5 @@
+![My Profile Photo](/assets/IMG_5856.JPG)
+
 ## Data Scientist
 
 ### 👩‍💻 About Me
