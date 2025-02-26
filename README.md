@@ -1,3 +1,5 @@
+<img src="/assets/IMG_5856.JPG" width="150" height="150" style="border-radius:50%; border:3px solid #333; box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
+
 ![My Profile Photo](/assets/IMG_5856.JPG)
 
 ## Data Scientist
