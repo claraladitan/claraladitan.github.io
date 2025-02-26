@@ -45,8 +45,9 @@ I thrive in cross-functional teams, leveraging data-driven solutions to improve 
 
 
 ### 📌 Want to see my projects?
-Check out my GitHub Repositories for my latest data science projects, dashboards, and machine learning experiments! 🚀
+Check out my Kaggle and GitHub Repositories for my latest data science projects, dashboards, and machine learning experiments! 🚀
 - 🔗 **[GitHub Profile](https://github.com/claraladitan)**
+- 🔗 **[Kaggle](https://www.kaggle.com/)**
 
 
 ### 📬 Let's Connect!
