@@ -51,7 +51,7 @@ Check out my Kaggle and GitHub Repositories for my latest data science projects,
 
 
 ### 📬 Let's Connect!
-- 💼 **[GitHub Profile](https://www.linkedin.com/in/clara-laditan/)**
+- 💼 **[Linkedin Profile](https://www.linkedin.com/in/clara-laditan/)**
 - 📧 **[Email](claratona22@gmail.com)**
 
 
