@@ -54,5 +54,9 @@ Check out my Kaggle and GitHub Repositories for my latest data science projects,
 - 💼 **[Linkedin Profile](https://www.linkedin.com/in/clara-laditan/)**
 - 📧 **[Email Me](mailto:claratona22@gmail.com)**
 - <a href="mailto:claratona22@gmail.com">📧 Email Me</a>
+{% raw %}
+<a href="mailto:your.email@example.com">📧 Email Me</a>
+{% endraw %}
+
 
 
