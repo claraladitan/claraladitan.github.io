@@ -1,4 +1,4 @@
-<img src="/assets/WhatsApp Image 2025-02-16 at 18.28.13_933c23cc.jpg" width="150" height="150" style="border-radius:50%; border:3px solid #333; box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
+![My Profile Photo](/assets/WhatsApp Image 2025-02-16 at 18.28.13_933c23cc.jpg)
 
 ## Data Scientist
 
