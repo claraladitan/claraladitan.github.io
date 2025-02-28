@@ -1,5 +1,3 @@
-![My Profile Photo](/assets/WhatsApp Image 2025-02-16 at 18.28.13_933c23cc.jpg)
-
 ## Data Scientist
 
 ### 👩‍💻 About Me
